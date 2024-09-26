@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdHHt+iJNeE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loren\\Dev\\AnimalUniverse\\AnimalUniverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loren\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\loren\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
